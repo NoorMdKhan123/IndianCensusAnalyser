@@ -6,7 +6,7 @@ namespace Indian_StatesCensusAnalyser
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to Indian census analyser program");
         }
     }
 }
